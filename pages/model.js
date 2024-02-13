@@ -46,8 +46,9 @@ const ModelsPage = () => {
       link :"/models/tuberculosis"
     },
     {
-      modelName: "Model F",
-      description: "Description for Model B. This is a sample description for Model B. It should stay within the card and not overflow.",
+      modelName: "Alzheimer Detection",
+      description: "Swiftly detect Alzheimer's disease with our advanced AI model. Seamlessly integrating with real-time image analysis, this tool aids in efficient medical diagnoses. Experience cutting-edge technology for prompt and accurate assessments of Alzheimer's disease, enabling early intervention and improved patient care.",
+      link :"/models/Alzheimer"
     },
     {
       modelName: "Model G",
