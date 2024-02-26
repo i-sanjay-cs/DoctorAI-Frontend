@@ -51,8 +51,9 @@ const ModelsPage = () => {
       link :"/models/Alzheimer"
     },
     {
-      modelName: "Model G",
+      modelName: "Cataract Prediction",
       description: "Description for Model B. This is a sample description for Model B. It should stay within the card and not overflow.",
+      link :"/models/cataract"
     },
     {
       modelName: "Model H",
