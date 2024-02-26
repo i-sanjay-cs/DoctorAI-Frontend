@@ -52,7 +52,7 @@ const ModelsPage = () => {
     },
     {
       modelName: "Cataract Prediction",
-      description: "Description for Model B. This is a sample description for Model B. It should stay within the card and not overflow.",
+      description: "Efficiently identify cataracts using our state-of-the-art AI model. Integrated seamlessly with advanced image analysis technology, our tool facilitates swift and precise diagnoses in the medical field. Experience the forefront of innovation for rapid and accurate cataract assessments, empowering early detection and enhanced patient care.",
       link :"/models/cataract"
     },
     {
