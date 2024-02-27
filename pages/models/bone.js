@@ -117,7 +117,7 @@ const BoneFracture = () => {
         </div>
         
         {/* Output Section */}
-        <div style={{ backgroundColor: "#fff", width: "600px", minHeight: "200px" }} className="p-8 rounded-md shadow-md">
+        <div style={{ backgroundColor: "#fff", width: "1000px", minHeight: "200px" }} className="p-8 rounded-md shadow-md">
           <h2 className="text-2xl font-semibold mb-4">Results</h2>
           <p>
             <strong>Bone Type:</strong> <span style={{ color: "black" }}>{outputBoneType}</span> <br />
@@ -125,10 +125,15 @@ const BoneFracture = () => {
           </p>
         </div>
 {/* Generated Text Section */}
-<div style={{ backgroundColor: "#fff", width: "600px", minHeight: "200px", marginTop: "20px", overflow: "auto", wordWrap: "break-word", fontSize: "10px" }} className="p-8 rounded-md shadow-md">
+<div style={{ backgroundColor: "#fff", width: "1000px", minHeight: "200px", marginTop: "20px", overflow: "auto", wordWrap: "break-word", fontSize: "14px", wordWrap: "break-word" }} className="p-8 rounded-md shadow-md">
   <h2 className="text-2xl font-semibold mb-4">Response from MediMate</h2>
-  <pre style={{ fontSize: "16px" }}>{generatedText}</pre>
+  <pre>{generatedText}</pre>
 </div>
+
+
+
+
+
 
 
 

@@ -111,7 +111,7 @@ const Alzheimer = () => {
           )}
         </div>
         {/* Output Section */}
-        <div style={{ backgroundColor: "#fff", width: "600px", height: "200px" }} className="p-8 rounded-md shadow-md">
+        <div style={{ backgroundColor: "#fff", width: "1000px", height: "200px" }} className="p-8 rounded-md shadow-md">
           <h2 className="text-2xl font-semibold mb-4">Results</h2>
           <p>
             <strong>Predicted Class:</strong>{" "}
@@ -125,9 +125,9 @@ const Alzheimer = () => {
         </div>
 
         {/* Generated Text Section */}
-        <div style={{ backgroundColor: "#fff", width: "600px", minHeight: "200px", marginTop: "20px", overflow: "auto", wordWrap: "break-word", fontSize: "10px" }} className="p-8 rounded-md shadow-md">
+        <div style={{ backgroundColor: "#fff", width: "1000px", minHeight: "200px", marginTop: "20px", overflow: "auto", wordWrap: "break-word", fontSize: "14px" }} className="p-8 rounded-md shadow-md">
           <h2 className="text-2xl font-semibold mb-4">Response from MediMate</h2>
-          <pre style={{ fontSize: "16px" }}>{generatedText}</pre>
+          <pre>{generatedText}</pre>
         </div>
       </div>
       <Footer />

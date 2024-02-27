@@ -29,6 +29,18 @@ const DataPage = () => {
       imageUrl: "https://etimg.etb2bimg.com/photo/104284391.cms",
       link: "/Data/tuberculosisdata",
     },
+    {
+      modelName: "Alzheimer Detection",
+     description: "Swiftly detect Alzheimer's disease with our advanced AI model. This tool aids in efficient medical diagnoses. Experience cutting-edge technology for prompt and accurate assessments of Alzheimer's disease, enabling early intervention and improved patient care.",
+      imageUrl: "https://www.bitsathy.ac.in/wp-content/uploads/111111111.jpg",
+      link: "/Data/tuberculosisdata",
+    },
+    {
+      modelName: "cataract Detection",
+      description: "Efficiently identify cataracts using our state-of-the-art AI model. Integrated seamlessly with advanced image analysis technology, our tool facilitates swift and precise diagnoses in the medical field. Experience the forefront of innovation for rapid and accurate cataract assessments.",
+      imageUrl: "https://www.health.com/thmb/OLIkIKmczEGBTTwczVvKc5KZjGw=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-cataracts-overview-7376241-final-89bc5cb9ef3140678c712449aab4316f.jpg",
+      link: "/Data/tuberculosisdata",
+    },
     // Add more models as needed
   ];
 

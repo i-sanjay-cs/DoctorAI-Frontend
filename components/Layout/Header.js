@@ -44,11 +44,7 @@ const Header = () => {
                 MediMate
               </a>
             </Link>
-            <Link href="/About">
-              <a className="px-4 py-2 mx-2 cursor-pointer animation-hover inline-block relative">
-                About
-              </a>
-            </Link>
+ 
             <Link href="/Contact">
               <a className="px-4 py-2 mx-2 cursor-pointer animation-hover inline-block relative">
                Contact

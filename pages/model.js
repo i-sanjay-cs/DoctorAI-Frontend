@@ -51,18 +51,11 @@ const ModelsPage = () => {
       link :"/models/Alzheimer"
     },
     {
-      modelName: "Cataract Prediction",
+      modelName: "Cataract Detection",
       description: "Efficiently identify cataracts using our state-of-the-art AI model. Integrated seamlessly with advanced image analysis technology, our tool facilitates swift and precise diagnoses in the medical field. Experience the forefront of innovation for rapid and accurate cataract assessments, empowering early detection and enhanced patient care.",
       link :"/models/cataract"
     },
-    {
-      modelName: "Model H",
-      description: "Description for Model B. This is a sample description for Model B. It should stay within the card and not overflow.",
-    },
-    {
-      modelName: "Model I",
-      description: "Description for Model B. This is a sample description for Model B. It should stay within the card and not overflow.",
-    },
+
     
     // Add more models as needed
   ];
