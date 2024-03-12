@@ -45,11 +45,7 @@ const ModelsPage = () => {
       description: "Tuberculosis Detection Model Empower your diagnostics with our advanced AI model designed for tuberculosis detection. Leveraging cutting-edge technology, this tool ensures swift and accurate assessments, enabling timely medical interventions.",
       link :"/models/tuberculosis"
     },
-    {
-      modelName: "Alzheimer Detection",
-      description: "Swiftly detect Alzheimer's disease with our advanced AI model. Seamlessly integrating with real-time image analysis, this tool aids in efficient medical diagnoses. Experience cutting-edge technology for prompt and accurate assessments of Alzheimer's disease, enabling early intervention and improved patient care.",
-      link :"/models/Alzheimer"
-    },
+
     {
       modelName: "Cataract Detection",
       description: "Efficiently identify cataracts using our state-of-the-art AI model. Integrated seamlessly with advanced image analysis technology, our tool facilitates swift and precise diagnoses in the medical field. Experience the forefront of innovation for rapid and accurate cataract assessments, empowering early detection and enhanced patient care.",
